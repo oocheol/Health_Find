@@ -1,5 +1,6 @@
 # 데이터 폴더
 data/
+.csv
 
 
 # Byte-compiled / optimized / DLL files

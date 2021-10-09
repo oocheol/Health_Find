@@ -1,3 +1,6 @@
+# 데이터 폴더
+data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
